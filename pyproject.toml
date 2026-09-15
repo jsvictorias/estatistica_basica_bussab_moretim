@@ -1,0 +1,14 @@
+[project]
+name = "estatistica-basica-bussab-moretim"
+version = "0.1.0"
+description = "Exercícios do livro Estatística Básica do Winton Bussab e Pedro Moretim"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "numpy>=2.5.2",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "pypdf>=6.16.1",
+    "xlrd>=2.0.2",
+]
